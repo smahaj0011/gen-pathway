@@ -1,0 +1,11 @@
+.container {
+    background-image: url('../assets/background.jpg');
+    border-radius: 10px;
+    width: 95vw;
+    margin: 0 auto;
+    background-repeat: 'no-repeat';
+
+}
+
+
+
